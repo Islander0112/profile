@@ -1,0 +1,10 @@
+head{display: none;}
+body{background-color: white;
+    display: black;
+    margin: 16px;}
+div{display:block;
+   unicode-bidi:isolate;}
+header{background-color:orange;
+      display:block;
+      unicode-bidi:isolate;}
+.menu{display:flex;}
