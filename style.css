@@ -8,6 +8,4 @@ header{background-color:orange;
       display:block;
       unicode-bidi:isolate;}
 .menu{display:flex;}
-footer{background-color:orange;
-      display:block;
-      unicode-bidi:isolate;}
+footer{background-color:orange;}
