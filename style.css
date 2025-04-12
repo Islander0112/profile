@@ -7,7 +7,7 @@ div{display:block;
 header{background-color:orange;
       display:block;
       unicode-bidi:isolate;}
-.box{margin-left:8px}
+.box{margin-left:32px}
 .menu{display:flex;}
 footer{background-color:orange;}
 h2{padding-top: 8px;}
