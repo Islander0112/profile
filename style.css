@@ -10,3 +10,4 @@ header{background-color:orange;
 .box{margin-left:8px}
 .menu{display:flex;}
 footer{background-color:orange;}
+h3{border-top:5px double #999999;}
